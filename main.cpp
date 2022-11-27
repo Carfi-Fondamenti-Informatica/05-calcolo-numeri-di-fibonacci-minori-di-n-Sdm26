@@ -11,6 +11,7 @@ int main() {
             s = c + d;
             if (s==n){
                 cout<<s<<endl;
+                break;
             }
         }
 
