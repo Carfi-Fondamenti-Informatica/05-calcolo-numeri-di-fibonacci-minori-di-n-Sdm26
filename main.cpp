@@ -1,5 +1,5 @@
 #include <iostream>
-usinge namespace std;
+using namespace std;
 
 int main() {
     int c = 0, d = 1, s = 0, n;
