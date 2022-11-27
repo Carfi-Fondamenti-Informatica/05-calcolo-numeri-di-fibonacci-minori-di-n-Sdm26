@@ -3,7 +3,6 @@ using namespace std;
 
 
 int main() {
-    bool t = true;
     int s= 1, o=1,n=0;
     cin >> n;
      cout << o <<endl;
