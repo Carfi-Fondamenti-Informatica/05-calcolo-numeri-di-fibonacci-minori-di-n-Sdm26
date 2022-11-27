@@ -9,8 +9,8 @@ int main() {
             c = d;
             d = s;
             s = c + d;
-            if (s==n){
-                cout<<s<<endl;
+            if (s>n){
+            
                 break;
             }
         }
