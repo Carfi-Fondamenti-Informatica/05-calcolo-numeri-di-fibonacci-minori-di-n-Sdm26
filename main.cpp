@@ -10,7 +10,6 @@ int main() {
             d = s;
             s = c + d;
             if (s>n){
-            
                 break;
             }
         }
