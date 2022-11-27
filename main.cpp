@@ -4,7 +4,7 @@ int main() {
     if(n>=2) {
         s=c+d;
         cout<<s<<endl;
-        for (int i = 0; i <= (n-3); i++) {
+        for (int i = 0; i <= (n-2); i++) {
             cout <<s<< endl;
             c = d;
             d = s;
