@@ -12,7 +12,7 @@ int main() {
             c = d;
             d = s;
             s = c + d;
-            if (s>n){
+            if (s>=n){
                 break;
             }
         }
