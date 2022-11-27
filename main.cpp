@@ -19,6 +19,8 @@ int main() {
         n--;
         }
 
-    }
+ }else{
+            break;
+        }
     return 0;
 }
