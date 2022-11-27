@@ -5,8 +5,6 @@ int main() {
     int c = 0, d = 1, s = 0, n;
     cin >> n;
     if(n>=2) {
-        s = c + d;
-        cout << s << endl;
         while(n>=2){
             s=1;
             c=0;
